@@ -10,7 +10,8 @@ October saw 43% of launched campaigns not reaching their goals.
 ### Analysis of Outcomes based on Goals
 ![](Resources/outcomes_vs_goals.png)
 Through filtering the Kickstarter data by category, "theater", campaign goals in monetary ranges, and outcomes, "canceled", "failed", and "successful", into a pivot table and graph we are presented with a visual representation of campaign outcomes in relationships to their fundraising goal.
-Campaigns are most likely to be successful if their goal is less than $5,000. 
+Campaigns are most likely to be successful if their goal is less than $5,000.
+Based on Louise's goal of $10,000 it is truly a toss-up as to whether her campaign would be successful with reaching the goal, as is clearly displayed by the graph.
 ### Challenges and Difficulties encountered
 A challenge encountered with the dataset was the combined group of the category and subcategory.
 In order to most effectively navigate the data, these two pieces of data needed to be in separate columns.
